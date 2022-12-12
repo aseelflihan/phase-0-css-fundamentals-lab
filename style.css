@@ -39,15 +39,11 @@ section>p{
   margin-left: 400px;
 }
 
-#details div{
-  text-align: center;
-  float: left;
-  background-color: yellowgreen;
- padding-left: 120px;
- padding-right: 120px;
+#details {
 
-
-    
+display:flex; 
+justify-content:space-evenly;
+background-color: rgb(192, 172, 172);
   }
 
 
